@@ -1,0 +1,6 @@
+{
+  "name": "Royal Casino 16-in-1",
+  "description": "Luxurious casino suite with 16 games, sign-up bonus, daily rewards, real-time multiplayer simulation, and EasyPaisa/JazzCash wallet integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
